@@ -1,0 +1,22 @@
+body {
+  font: Georgia, Times, serif;
+}
+
+header {
+  text-align: center;
+}
+
+#main {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.quiz-option {
+  margin-right: 5px;
+  float: left;
+}
+
+.question {
+  font-size: 1.2em;
+  font-weight: bold;
+}
